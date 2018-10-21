@@ -16,3 +16,5 @@
 - dlatego zmienie grafike i dodam wiecej tekstu
 
 ![GitHub Logo](https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2013/09/programowanie-1.jpg)
+
+# Chce byc testerem a potem developerem!
